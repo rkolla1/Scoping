@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">survey</string>
+    <string name="login">Login</string>
+    <string name="Home">HOME</string>
+    <string name="done">Done</string>
+    <string name="LoginButton">Login</string>
+    <string name="DonthavaAccount">Have an account? </string>
+    <string name="Register">Signin</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Password">Password</string>
+    <string name="Username">Enter the email</string>
+    <string name="update">Update</string>
+    <string name="Next">Next</string>
+    <string name="Submit">Submit</string>
+
+
+</resources>
